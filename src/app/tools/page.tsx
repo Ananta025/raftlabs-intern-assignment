@@ -53,10 +53,10 @@ export default function ToolsPage() {
     <div className="min-h-screen bg-gray-50 dark:bg-gray-950">
       <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
         <div className="mb-12 text-center">
-          <h1 className="text-4xl font-bold tracking-tight text-gray-900 dark:text-gray-100 sm:text-5xl">
-            Browse All AI Tools
+          <h1 className="text-2xl font-medium text-gray-900 dark:text-gray-100 sm:text-5xl">
+            Browse all AI tools
           </h1>
-          <p className="mt-4 text-lg text-gray-600 dark:text-gray-400">
+          <p className="mt-4 text-base text-gray-600 dark:text-gray-400">
             Explore {tools.length} curated AI tools across 5 categories
           </p>
         </div>
