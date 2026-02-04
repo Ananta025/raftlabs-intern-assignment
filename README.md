@@ -6,7 +6,11 @@ A curated directory of AI tools built with Next.js 14, featuring 20 carefully se
 
 This project is a static AI tools catalog designed to help users discover and explore the best AI tools available in 2026. The site features:
 
-- **Listing page** displaying all tools in a responsive grid with category and pricing filters
+- **Listing page** displaying all tools in a responsive grid
+- **Real-time search** to quickly find tools by name
+- **Category filtering** with one-click category selection
+- **Sorting options** by name (A-Z, Z-A) and pricing (Free → Paid)
+- **Free tools page** dedicated page for free AI tools
 - **Dynamic detail pages** for each tool with comprehensive information
 - **Static site generation** for optimal performance and SEO
 - **Dark mode support** for improved accessibility
@@ -58,6 +62,8 @@ The final dataset lives in `src/data/tools.json` and powers all pages through st
 - **Type-safe data layer** - TypeScript interfaces for Tool data
 - **SEO optimization** - Metadata API, sitemap, robots.txt
 - **Responsive design** - Mobile-first approach with Tailwind breakpoints
+- **Search & Filtering** - Real-time search, category filters, and sorting
+- **Dark mode** - System-aware theme switching
 
 ### Project Structure
 ```
@@ -142,53 +148,40 @@ All AI-generated code was reviewed, tested, and refined manually to ensure quali
 
 ## Future Improvements
 
-With 2 additional days, I would implement:
+With additional time, I would implement:
 
 ### High Priority
 
-1. **Search Functionality**
-   - Real-time search by tool name
-   - Search state management with URL params
-   - Debounced input for performance
+1. **URL State Persistence**
+   - Sync search, filter, and sort state to URL params
+   - Enable shareable filtered views
+   - Browser back/forward navigation support
 
-2. **Advanced Filtering**
-   - Multi-select category filters
-   - Pricing range selection
-   - Filter state persistence in URL
-   - "Clear all filters" functionality
-
-3. **Sorting Options**
-   - Sort by name (A-Z, Z-A)
-   - Sort by pricing (Free → Paid)
-   - Sort by category
-
-### Medium Priority
-
-4. **Enhanced UI**
+2. **Enhanced UI**
    - Loading skeletons for better perceived performance
    - Animations using Framer Motion
    - Tool comparison feature (side-by-side)
    - Favorite/bookmark functionality (localStorage)
 
-5. **SEO Enhancements**
+3. **SEO Enhancements**
    - Dynamic sitemap generation script
    - JSON-LD structured data for rich snippets
    - Open Graph images for each tool
 
-6. **Analytics**
+### Medium Priority
+
+4. **Analytics**
    - Track tool page views
    - Monitor popular categories
    - Track external link clicks
 
-### Nice to Have
-
-7. **Content Expansion**
+5. **Content Expansion**
    - User reviews and ratings
    - Tool submission form
    - Related tools section on detail pages
    - Newsletter signup for new tools
 
-8. **Performance**
+6. **Performance**
    - Image optimization with next/image
    - Lazy loading for below-fold content
    - Performance monitoring with Vercel Analytics
@@ -243,9 +236,9 @@ The site is fully static and can also be deployed to Netlify, Cloudflare Pages, 
 - **Accessible**: Keyboard navigation and ARIA labels
 - **Maintainable**: Clean code structure with helper functions
 - **Scalable**: Easy to add more tools to the dataset
+- **Feature-rich**: Search, filtering, sorting, and dark mode included
 
 ---
 
-**Built by**: [Your Name]  
-**Submitted to**: RaftLabs  
+**Built by**: Ananta Chandra Das  
 **Date**: February 2026
