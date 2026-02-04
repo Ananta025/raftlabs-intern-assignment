@@ -1,0 +1,182 @@
+[
+  {
+    "slug": "chatgpt",
+    "name": "ChatGPT",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "description": "Advanced AI chatbot for conversations, writing assistance, and problem-solving. Generate content, get answers, and brainstorm ideas.",
+    "website": "https://chat.openai.com",
+    "logo": "/logos/chatgpt.png"
+  },
+  {
+    "slug": "github-copilot",
+    "name": "GitHub Copilot",
+    "category": "Coding",
+    "pricing": "Paid",
+    "description": "AI pair programmer that suggests code and functions in real-time. Accelerate development with context-aware code completions.",
+    "website": "https://github.com/features/copilot",
+    "logo": "/logos/github-copilot.png"
+  },
+  {
+    "slug": "midjourney",
+    "name": "Midjourney",
+    "category": "Design",
+    "pricing": "Paid",
+    "description": "AI art generator creating stunning images from text prompts. Create unique artwork, illustrations, and concept designs.",
+    "website": "https://www.midjourney.com",
+    "logo": "/logos/midjourney.png"
+  },
+  {
+    "slug": "jasper",
+    "name": "Jasper",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI content platform for creating marketing copy, blog posts, and social media content. Scale your content creation effortlessly.",
+    "website": "https://www.jasper.ai",
+    "logo": "/logos/jasper.jpg"
+  },
+  {
+    "slug": "notion-ai",
+    "name": "Notion AI",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI-powered writing assistant built into Notion. Summarize notes, generate ideas, and improve your writing workflow.",
+    "website": "https://www.notion.so/product/ai",
+    "logo": "/logos/notion-ai.png"
+  },
+  {
+    "slug": "copy-ai",
+    "name": "Copy.ai",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "description": "AI-powered copywriting tool for marketing and sales content. Create compelling copy for ads, emails, and landing pages.",
+    "website": "https://www.copy.ai",
+    "logo": "/logos/copy-ai.png"
+  },
+  {
+    "slug": "tabnine",
+    "name": "Tabnine",
+    "category": "Coding",
+    "pricing": "Freemium",
+    "description": "AI code completion tool supporting multiple languages and IDEs. Boost coding speed with intelligent suggestions.",
+    "website": "https://www.tabnine.com",
+    "logo": "/logos/tabnine.png"
+  },
+  {
+    "slug": "canva-magic-design",
+    "name": "Canva Magic Design",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "AI design generator in Canva that creates custom templates instantly. Transform ideas into professional designs in seconds.",
+    "website": "https://www.canva.com/magic-design",
+    "logo": "/logos/canva-magic-design.jpg"
+  },
+  {
+    "slug": "grammarly",
+    "name": "Grammarly",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "description": "AI writing assistant that checks grammar, clarity, and tone. Improve your writing with real-time suggestions.",
+    "website": "https://www.grammarly.com",
+    "logo": "/logos/grammarly.jpg"
+  },
+  {
+    "slug": "sembly-ai",
+    "name": "Sembly AI",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI meeting assistant that records, transcribes, and generates insights. Never miss important meeting details again.",
+    "website": "https://www.sembly.ai",
+    "logo": "/logos/sembly-ai.png"
+  },
+  {
+    "slug": "runway-ml",
+    "name": "Runway ML",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "AI-powered creative suite for video editing and visual effects. Generate and edit videos with cutting-edge AI tools.",
+    "website": "https://runwayml.com",
+    "logo": "/logos/runway-ml.png"
+  },
+  {
+    "slug": "codeium",
+    "name": "Codeium",
+    "category": "Coding",
+    "pricing": "Free",
+    "description": "Free AI code completion and search tool for developers. Fast, accurate suggestions across 70+ programming languages.",
+    "website": "https://codeium.com",
+    "logo": "/logos/codeium.png"
+  },
+  {
+    "slug": "writesonic",
+    "name": "Writesonic",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI content generator for blogs, ads, and product descriptions. Create SEO-optimized content at scale.",
+    "website": "https://writesonic.com",
+    "logo": "/logos/writesonic.jpg"
+  },
+  {
+    "slug": "reclaim-ai",
+    "name": "Reclaim AI",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI scheduling assistant that optimizes your calendar automatically. Find time for priorities and balance your workload.",
+    "website": "https://reclaim.ai",
+    "logo": "/logos/reclaim-ai.png"
+  },
+  {
+    "slug": "framer-ai",
+    "name": "Framer AI",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "AI website builder that generates sites from simple prompts. Design and publish stunning websites in minutes.",
+    "website": "https://www.framer.com/ai",
+    "logo": "/logos/framer-ai.png"
+  },
+  {
+    "slug": "quillbot",
+    "name": "QuillBot",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "description": "AI paraphrasing and summarization tool for writers. Rewrite content, check grammar, and summarize long texts.",
+    "website": "https://quillbot.com",
+    "logo": "/logos/quillbot.png"
+  },
+  {
+    "slug": "cursor",
+    "name": "Cursor",
+    "category": "Coding",
+    "pricing": "Freemium",
+    "description": "AI-first code editor built for pair programming with AI. Chat with your codebase and generate code faster.",
+    "website": "https://cursor.sh",
+    "logo": "/logos/cursor.png"
+  },
+  {
+    "slug": "surfer-seo",
+    "name": "Surfer SEO",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI-powered SEO tool for content optimization and research. Rank higher with data-driven content strategies.",
+    "website": "https://surferseo.com",
+    "logo": "/logos/surfer-seo.png"
+  },
+  {
+    "slug": "otter-ai",
+    "name": "Otter.ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI meeting notes and transcription service for teams. Capture and share voice conversations automatically.",
+    "website": "https://otter.ai",
+    "logo": "/logos/otter-ai.png"
+  },
+  {
+    "slug": "adcreative-ai",
+    "name": "AdCreative.ai",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI-powered ad creative generator for marketing campaigns. Generate conversion-focused ad creatives in seconds.",
+    "website": "https://www.adcreative.ai",
+    "logo": "/logos/adcreative-ai.jpg"
+  }
+]
